@@ -1,0 +1,322 @@
+Feb  9 14:01:47 STANDALONE kernel: imklog 5.8.11, log source = /proc/kmsg started.
+Feb  9 14:01:47 STANDALONE rsyslogd: [origin software="rsyslogd" swVersion="5.8.11" x-pid="9931" x-info="http://www.rsyslog.com"] start
+Feb  9 14:04:55 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:04:55 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:04:55 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:04:55 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:45 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|mkdir|ok|Atlas
+Feb  9 14:05:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:05:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/ATLAS.CAB
+Feb  9 14:05:52 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:52 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/AUTORUN.EXE
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/AUTORUN.INF
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/README.WRI
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SETUP.EXE
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SETUP.INI
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SETUP.LST
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SETUP.TDF
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SWA30809.INF
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|mkdir|ok|Atlas/IE
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|mkdir|ok|Atlas/IE/English
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE/English
+Feb  9 14:05:54 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/IE/English/amov4ie.exe
+Feb  9 14:05:55 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/IE/English/msie302.exe
+Feb  9 14:05:59 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|mkdir|ok|Atlas/SYSTEM
+Feb  9 14:05:59 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:05:59 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SYSTEM/FTSEARCH.FTI
+Feb  9 14:06:04 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|w|Atlas/SYSTEM/MsWorld.its
+Feb  9 14:06:31 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:06:31 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:32 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:32 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:33 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:33 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:34 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:43 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:06:43 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:43 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:43 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:44 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:44 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:44 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:44 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:44 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:06:46 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:06:47 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:06:47 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/AUTORUN.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:48 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:49 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:50 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:51 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:52 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:52 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:52 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SETUP.EXE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE/English
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE/English
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE/English
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE/English
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|rmdir|ok|Atlas/IE/English
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/IE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|rmdir|ok|Atlas/IE
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas/SYSTEM
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|rmdir|ok|Atlas/SYSTEM
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:56 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:59 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:07:59 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:08:01 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:08:01 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:08:01 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:08:38 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:08:38 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:08:39 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:08:39 STANDALONE smbd[14152]: rahul|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:10:43 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:43 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:43 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:46 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:10:46 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:10:55 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:55 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:55 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|admin/RecentPlaces.lnk
+Feb  9 14:10:55 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:10:55 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:06 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:06 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:06 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|mkdir|ok|Sample Pictures
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:21 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:11:22 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:22 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:22 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Desert.jpg
+Feb  9 14:11:23 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/desktop.ini
+Feb  9 14:11:23 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/desktop.ini
+Feb  9 14:11:23 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Hydrangeas.jpg
+Feb  9 14:11:23 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Jellyfish.jpg
+Feb  9 14:11:24 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Koala.jpg
+Feb  9 14:11:25 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Lighthouse.jpg
+Feb  9 14:11:25 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Penguins.jpg
+Feb  9 14:11:26 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:26 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:26 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Tulips.jpg
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Atlas
+Feb  9 14:11:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|rmdir|ok|Atlas
+Feb  9 14:11:29 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:11:29 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:11:29 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:11:40 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:40 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:41 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:41 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|mkdir|ok|/storage/NS/recycle/Sample Pictures
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:11:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|rmdir|ok|Sample Pictures
+Feb  9 14:11:45 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:58 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:59 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:11:59 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|mkdir|ok|Sample Pictures
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:11 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Desert.jpg
+Feb  9 14:12:12 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/desktop.ini
+Feb  9 14:12:12 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/desktop.ini
+Feb  9 14:12:12 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Hydrangeas.jpg
+Feb  9 14:12:13 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Jellyfish.jpg
+Feb  9 14:12:13 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Koala.jpg
+Feb  9 14:12:14 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Lighthouse.jpg
+Feb  9 14:12:15 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Penguins.jpg
+Feb  9 14:12:15 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Tulips.jpg
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:16 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:17 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:12:17 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:12:18 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:12:18 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:12:18 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Desert.jpg
+Feb  9 14:12:52 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:52 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:12:54 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|rmdir|ok|Sample Pictures
+Feb  9 14:12:59 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:27 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:28 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:31 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:31 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:31 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|mkdir|ok|Sample Pictures
+Feb  9 14:14:31 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:14:31 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Chrysanthemum.jpg
+Feb  9 14:14:32 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:32 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:32 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Desert.jpg
+Feb  9 14:14:33 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/desktop.ini
+Feb  9 14:14:33 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Hydrangeas.jpg
+Feb  9 14:14:33 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Jellyfish.jpg
+Feb  9 14:14:34 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Koala.jpg
+Feb  9 14:14:35 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Lighthouse.jpg
+Feb  9 14:14:35 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Penguins.jpg
+Feb  9 14:14:36 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Tulips.jpg
+Feb  9 14:14:37 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Chrysanthemum.jpg
+Feb  9 14:14:38 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Desert.jpg
+Feb  9 14:14:38 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of desktop.ini
+Feb  9 14:14:38 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Hydrangeas.jpg
+Feb  9 14:14:39 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Jellyfish.jpg
+Feb  9 14:14:39 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Koala.jpg
+Feb  9 14:14:40 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Lighthouse.jpg
+Feb  9 14:14:41 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Penguins.jpg
+Feb  9 14:14:41 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|w|Sample Pictures/Copy #1 of Tulips.jpg
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/desktop.ini
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Copy #1 of Chrysanthemum.jpg
+Feb  9 14:14:42 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Copy #1 of Chrysanthemum.jpg
+Feb  9 14:14:43 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Copy #1 of Desert.jpg
+Feb  9 14:14:43 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|Sample Pictures/Copy #1 of Desert.jpg
+Feb  9 14:15:19 STANDALONE smbd[15654]: admin|10.10.10.101|Final_Data|open|ok|r|.
